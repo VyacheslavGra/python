@@ -7,7 +7,6 @@ def sum_number():
 
     print(f"{sum_numbers}")
 
-
 def dif_number():
     number_1 = int(input())
     number_2 = int(input())
